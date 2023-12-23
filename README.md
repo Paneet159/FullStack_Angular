@@ -1,2 +1,2 @@
 # FullStack_Angular
-Training
+ full stack studentmanagement system using Angular and SpringBoot
